@@ -1,0 +1,2 @@
+# High-Performance-Real-Time-Vision-Pipeline-OpenCV-C-
+C++ / OpenCV real-time anomaly detection on live camera streams.  This project showcases a lightweight computer vision pipeline including contour detection, edge-based defect detection, temporal stabilization, and FPS monitoring.  Designed as a minimal industrial-style prototype to demonstrate performance, robustness, and real-time constraints.
